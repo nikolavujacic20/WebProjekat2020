@@ -1,0 +1,4 @@
+"name","description","imagePath","users","resources"
+"Org1","test organization no.1","download.png","admin@admin.com;milica@gmail.com;pera","VM1;Disc1;Disc2;Disc3;Disc4;sdasd;dis565;disk19"
+"Org2","test organization no.2","deluge-icon.png","acaadmin@admin.com","VM12"
+"Org3","test organization no.23","spotify-client-icon.png","","VM2"

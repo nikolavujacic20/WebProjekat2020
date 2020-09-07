@@ -1,0 +1,4 @@
+"email","name","lastName","password","organization","role"
+"super@admin.com","Super","Admin","superadmin","","SUPERADMIN"
+"admin@admin.com","Marko","Markovic","admin","Org1","ADMIN"
+"pera@gmail.com","Pera","Peric","pera","Org1","USER"
